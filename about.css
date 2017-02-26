@@ -14,7 +14,7 @@ nav{ background-color: #4682b4
   width: 210px;
   }
 
-h1 { font-size: 120%;
+h1 { font-size: 220%;
      color:olive; }
 ul { 
      font-style: italic;
@@ -22,6 +22,7 @@ ul {
 }
 
 p {
- color: darkblue;
+     font-size: 120%;
+     color: darkblue;
  font-family: Tahoma;
 }

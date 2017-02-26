@@ -1,1 +1,15 @@
-t
+h2 { 
+  font-size: 100%;
+  color:darkblue;}
+
+aside {
+  background-color: #93CCEA;
+  font-size: 105%;
+  width: 230px;
+}
+ul {
+  color: olive
+    font-size: 105%;
+  font-family: Comic Sans Ms, Seri;
+}
+    

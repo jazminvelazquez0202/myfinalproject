@@ -9,11 +9,15 @@ nav{ background-color: #4682b4
   margin: 20px;
   border-radius: 5px;
   padding: 20px;
-  font-size: 120%;
+  font-size:100%;
   float: right;
   width: 210px;
   }
 
 h1 { font-size: 120%;
      color:olive; }
+ul { 
+     font-style: italic;
+     color: red;
+}
 

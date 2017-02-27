@@ -15,3 +15,9 @@ p {
   color:#E6E6FA
     font-size: 120%
 }
+
+img {
+  width:320px;
+  float: center;
+  border-radius: 5px;
+  

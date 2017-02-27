@@ -19,4 +19,13 @@ h1 {
  font-size: 180%;
  color:#4682b4;
  }
+aside{
+ background-color:#ffb6c1;
+ margin: 35px;
+ border-radius: 5px;
+ padding: 30px;
+ font-size: 180%;
+ float: center;
+ width: 300px;
+}
 

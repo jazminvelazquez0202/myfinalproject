@@ -3,6 +3,7 @@ ul{
  font-family: seri;
  font-size: 100%;
  color: #8B008B;
+ border-radius: 5px;
 }
 
 aside{
@@ -18,6 +19,7 @@ aside{
 h1 {
  font-size: 180%;
  color:#4682b4;
+ border-radius: 5px;
  }
 aside{
  background-color:#ffb6c1;
@@ -38,4 +40,5 @@ aside{
 
 p { 
  background-color: #f5deb3;
+ border-radius: 5px;
 }

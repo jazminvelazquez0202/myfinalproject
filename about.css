@@ -19,7 +19,7 @@ nav{ background-color: #4682b4
   width: 210px;
   }
 
-h1 { font-size: 220%;
+h1 { font-size: 210%;
      color:olive; }
 ul { 
      font-style: italic;
@@ -31,3 +31,9 @@ p {
      color: darkblue;
  font-family: Tahoma;
 }
+
+h2{
+     font-size: 100%;
+     color:#FA8072
+      font-family: Comic Sans Ms
+         font-style: italic;

@@ -2,14 +2,16 @@ h2 {
   font-size: 160%;
   color:olive;}
 
-aside {
-  background-color: #93CCEA;
-  font-size: 105%;
-  width: 300px;
-}
-ul {
+
+ul{ 
   color: olive
     font-size: 180%;
   font-family: Comic Sans Ms, Seri;
 }
     
+
+    aside {
+  background-color: #4682b4;
+  font-size: 105%;
+  width: 300px;
+}
